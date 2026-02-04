@@ -154,4 +154,3 @@ Claim-Denial-Explainability-Copilot/
     (optional helpers, e.g. rag_utils/, not strictly required for the POC)
   README.md                              # this file
 
-![image_1770048942195.png](./image_1770048942195.png "image_1770048942195.png")
